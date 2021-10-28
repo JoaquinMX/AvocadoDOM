@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/JoaquinAprendizaje/AvocadoDOM",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
@@ -7,6 +8,7 @@
     "lint": "prettier --check \"src/**/*.js\"",
     "pre-commit": "pretty-quick --staged"
   },
+
   "devDependencies": {
     "husky": "7",
     "prettier": "^2.0.5",
